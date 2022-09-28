@@ -1,9 +1,6 @@
-
 <h2>Juan Bautista Comas</h2>
 
-```javascript
-<h1>hola mundo</h1>
-
+```javascript                                                      
 const JB = {
 
     title:[Full Stack Web Developer],
@@ -11,6 +8,7 @@ const JB = {
     code: ["Javascript"],
     
     technologies: {
+    
         frontEnd: {
             js: ["React","Redux"],
             css: ["Tailwind"]
@@ -44,7 +42,15 @@ const JB = {
     
     }
     
-};
+};                                      <h3>CONTACT ME</h3>
+
+                const Contact = { mail:[ "jbcomas30@gmail.com" ]}
+   
+   
+   
+   
+   setTimeout(function(){console.log(JB);}, 2000);  
+
 ```
 
 
